@@ -13,32 +13,13 @@ FizzBuzz es un juego simple que se juega de la siguiente manera:
 
 Este proyecto utiliza Jest para escribir y ejecutar pruebas que guían el desarrollo del código.
 
-### Estructura del Proyecto
-
-El proyecto está estructurado de la siguiente manera:
-
-tdd_js/
-
-│
-
-├── src/
-
-│ └── fizzBuzz.js
-├── tests/
-│ └── fizzBuzz.test.js
-├── .gitignore
-├── package.json
-└── README.md
-
 ### Dependencias
-
 Este proyecto utiliza Node.js y Jest. Las dependencias están especificadas en el archivo package.json.
 
 - [Node.js](https://nodejs.org/)
 - [Jest](https://jestjs.io/)
 
 ### Instalación
-
 Para instalar las dependencias ejecuta el siguiente comando:
 
 `npm install`
