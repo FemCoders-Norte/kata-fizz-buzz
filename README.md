@@ -18,8 +18,11 @@ Este proyecto utiliza Jest para escribir y ejecutar pruebas que guían el desarr
 El proyecto está estructurado de la siguiente manera:
 
 tdd_js/
+
 │
+
 ├── src/
+
 │ └── fizzBuzz.js
 ├── tests/
 │ └── fizzBuzz.test.js
